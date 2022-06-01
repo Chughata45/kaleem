@@ -38,7 +38,7 @@ header = {'x-fb-connection-bandwidth': repr(bd), 'x-fb-sim-hni': repr(sim), 'x-f
 
 logo = """                                                                                                                   
                                                                                                                    
-\033[1:92mKKKKKKKKK    KKKKKKK                  lllllll                                                                      
+\033[1;92mKKKKKKKKK    KKKKKKK                  lllllll                                                                      
 K:::::::K    K:::::K                  l:::::l                                                                      
 K:::::::K    K:::::K                  l:::::l                                                                      
 K:::::::K   K::::::K                  l:::::l                                                                      
@@ -62,10 +62,7 @@ KKKKKKKKK    KKKKKKK  aaaaaaaaaa  aaaallllllll    eeeeeeeeeeeeee      eeeeeeeeee
                                                                                                                    
                                                                                                                    
 
-\033[1;92m\n88888 8888 .d88b 8   8    
-  8   8www 8P    8www8    
-  8   8    8b    8   8    
-  8   8888 *Y88P 8   8                              
+                              
 \n\033[0m----------------------------------
 \033[1;92mAuthor \033[1;93m: Kaleem Chughata
 \033[1;92mFb \033[1;93m: ヰ༺豐 ཬྀ豐࿐ヰ
